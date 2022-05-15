@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenShotTest</string>
+    <string name="info">Product: %1$s, Device Model: %1$s, API %3$d</string>
+</resources>
